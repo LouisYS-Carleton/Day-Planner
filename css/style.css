@@ -1,0 +1,36 @@
+textarea {
+  resize: none;
+}
+
+.past-hour {
+  background-color: rgb(189, 189, 189);
+  border-color: gray;
+}
+
+.present-hour {
+  background-color: crimson;
+  border-color: crimson;
+}
+
+.future-hour {
+  background-color: rgb(90, 177, 90);
+  border-color: rgb(41, 136, 41);
+}
+
+#saveBtn {
+  background-color: cyan;
+  border-radius: 0px 5px 5px 0px;
+}
+
+#saveBtn:hover{
+  background-color: brown;
+}
+
+header {
+  border-bottom-width: 10px;
+  color: black;
+}
+
+button {
+  font-size: 2em;
+}
