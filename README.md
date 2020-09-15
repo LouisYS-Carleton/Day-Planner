@@ -1,7 +1,7 @@
 # Day-Planner
 
-<img src="./Assets/New plan" alt="New plan day planner">
-<img src="./Assets/Saved plan" alt="Saved plan day planner">
+<img src="./Assets/New-plan.png" alt="New plan day planner">
+<img src="./Assets/Saved-plan.png" alt="Saved plan day planner">
 
 1. When user enters page, they are met with a table of blank time slots. There is the date and time at the top, in the description, that counts down in real time.
 
