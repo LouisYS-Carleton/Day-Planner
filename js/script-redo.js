@@ -11,6 +11,7 @@ let timeSlot = {
     "4 PM": "",
     "5 PM": ""
 }
+let counter = 1
 // End of Variables
 
 
@@ -28,7 +29,6 @@ function update() {
 }
 setInterval(update, 10);
 
-let counter = 1
 for (const slot in timeSlot) {
     let rowTextInput = "#row-text" + counter
     $(rowTextInput).text(timeSlot[slot])
