@@ -7,7 +7,7 @@
 
 2. When user enters his/her day plan into the hourly text box, it displays as one would expect. If not saved to localStorage by hitting the "Save" button to the right, the text willl disappear when the page is reloaded.
 
-3. As the day progresses, the "current hour" shows that it is updating by displaying in red.
+3. As the day progresses, the "current hour" shows that it is updating by displaying in red, upcoming hours will display in green, and past hours will turn grey.
 
 4. If the user wants to save a plan for a certain hour, hitting "save" will save the user's input into localStorage. This allows the user to exit the page, reload, etc and not lose their current day plans.
 
